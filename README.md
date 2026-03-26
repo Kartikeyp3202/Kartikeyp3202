@@ -12,8 +12,7 @@ Currently working with the MERN stack and sharpening my problem-solving skills t
 Always looking for opportunities to contribute, learn, and grow.
 
 - 🔭 &nbsp;Currently building projects with the **MERN Stack**
-- 📚 &nbsp;Consistently practising **Data Structures & Algorithms**
-- - 📚 &nbsp;Consistently practising **Data Structures & Algorithms** in **Java**
+- 📚 &nbsp;Consistently practising **Data Structures & Algorithms** in **Java**
 - 🤝 &nbsp;Open to **internship opportunities**
 - 📍 &nbsp;India
 
