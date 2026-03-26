@@ -45,8 +45,7 @@ An interactive task management board with drag-and-drop, LocalStorage persistenc
 
 ---
 
-### 📱 [MERN Social Media App](https://github.com/Kartikeyp3202/MERN-STACK-Social-Media-App
-)
+### 📱 [MERN Social Media App](https://github.com/Kartikeyp3202/MERN-STACK-Social-Media-App)
 A full-stack social media app where users can create posts and view a live feed — built to demonstrate end-to-end MERN development.  
 `React (Vite)` `Node.js` `Express.js` `MongoDB` `REST API`
 
